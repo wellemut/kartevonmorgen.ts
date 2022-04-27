@@ -8,7 +8,7 @@
     "chooseCategory": "Kategorie auswählen",
     "location": "Ort",
     "clickMap": "(auf Karte klicken)",
-    "iHaveRead": "Ich habe die",
+    "iHaveRead": "Ich habe die ",
     "creativeCommonsLicense": "Bestimmungen der Creative-Commons Lizenz CC0",
     "openDatabaseLicense": "Bestimmungen der OpenDatabase Lizenz",
     "licenseAccepted": "gelesen und akzeptiere sie.",
@@ -40,7 +40,7 @@
     "save": "speichern",
     "editEntryHeading": "Eintrag bearbeiten",
     "newEntryHeading": "Neuer Eintrag",
-    "savingError": "Der Eintrag konnte nicht gespeichert werden",
+    "savingError": "Der Eintrag konnte nicht gespeichert werden...",
     "valueError": "Bitte überprüfe deine Eingaben.",
     "requiredField": "Pflichtangabe",
     "titleTooLong": "Zu langer Titel",
@@ -61,7 +61,7 @@
     "invalidLicenseAgreement": "Ungültige Zustimmung",
     "invalidURL": "Ungültige URL",
     "httpMissing": "\"http://\" oder \"https://\" fehlt",
-    "generateHours": "Finde das richtige Format für deine Zeit!",
+    "generateHours": "Finde das richtige Format für deine Zeit...",
     "links": "Links und Social Media",
     "linkUrl": "Link URL",
     "linkTitle": "Link Titel (optional)",
@@ -76,8 +76,8 @@
     "reportLink": "Diesen Eintrag melden",
     "reportSubject": "Eintrag melden",
     "reportBody": "Mit dem Eintrag {link} gibt es folgendes Problem:",
-    "readMore": "weiterlesen...",
-    "lastEdit": "Letzte Änderung:",
+    "readMore": "Weiterlesen...",
+    "lastEdit": "Letzte Änderung",
     "today": "heute",
     "daysAgo": "Tage her",
     "eventRegistrationInfo": {
@@ -93,16 +93,16 @@
     "invalidValues": "Ungültige Daten",
     "invalidEmail": "Ungültige Email-Adresse",
     "invalidPassword": "Ungültiges Passwort",
-    "invalidPasswordOrEmail": "falsches Passwort oder falsche Email-Adresse.",
+    "invalidPasswordOrEmail": "Falsches Passwort oder falsche Email-Adresse.",
     "emailUnconfirmed": "Email-Adresse noch nicht bestätigt. Bitte schaue in deinem Postfach nach, möglicherweise auch im Spam-Ordner.",
     "minNumCharactersPassword": "von mind. 3 Zeichen",
     "email": "Email-Adresse",
     "password": "Passwort",
     "loginButton": "Login",
     "registerText": "Du hast noch keinen Account? Dann kannst du dich",
-    "registerLink": "hier kostenlos registrieren.",
+    "registerLink": "Hier kostenlos registrieren.",
     "passwordResetText": "Passwort vergessen?",
-    "passwordResetLink": "zurücksetzen"
+    "passwordResetLink": "Zurücksetzen"
   },
   "register": {
     "heading": "Registrieren",
@@ -158,7 +158,7 @@
       "minusOne": "einige Kritikpunkte",
       "zero": "nicht besonders nachhaltig",
       "one": "zukunftsweisend",
-      "two": "besser geht's nicht!"
+      "two": "Besser geht's nicht!"
     }
   },
   "ratingForm": {
@@ -166,7 +166,7 @@
     "newRating": "Neue Bewertung",
     "introText": "Positivfaktoren entscheiden darüber, wie sichtbar ein Eintrag auf der Karte von morgen ist. Je größer der Anteil positiver Aspekte einer Organisation ist, desto höher steigt der Pin in den Suchergebnissen.",
     "moreInfoLink": "weitere Infos",
-    "savingError": "Die Bewertung konnte nicht gespeichert werden",
+    "savingError": "Die Bewertung konnte nicht gespeichert werden.",
     "valuesError": "Bitte überprüfe deine Eingaben.",
     "chooseContext": "Wähle einen Aspekt der Nachhaltigkeit für deine Bewertung",
     "title": "Überschrift",
@@ -224,7 +224,7 @@
     "text": {
       "1": "Die Plattform von morgen finanziert sich über Fördermittel verschiedener Programme und Wettbewerbe, als auch über Spenden. Wir, das Team von morgen, arbeiten ehrenamtlich.",
       "2": "Die Beiträge möchten wir für die Weiterentwicklung der Plattform verwenden. Verschieden Features sind in Planung.",
-      "3": "Hier geht es zu unserer Crowdfunding-Kampagne: ",
+      "3": "Hier geht es zu unserer Crowdfunding-Kampagne:",
       "4": "Wir freuen uns über jeden kleinen und großen Beitrag und hoffen auch bald in deiner Stadt verfügbar zu sein."
     },
     "ending": "Lieben Dank, das Team von morgen"
@@ -330,15 +330,15 @@
   "modal": {
     "locate": {
       "inProgress": "Dein aktueller Standort wird gesucht...",
-      "cancel": "abbrechen",
+      "cancel": "Abbrechen",
       "failed": "Der Standort kann nicht ermittelt werden. Die Standortbestimmung ist in den Browser- oder System-Einstellungen deaktiviert, oder das GPS hat keinen Empfang.",
-      "close": "schließen",
-      "tryAgain": "nochmal versuchen"
+      "close": "Schließen",
+      "tryAgain": "Nochmal versuchen."
     },
     "events": {
       "text": "Events werden zur Zeit noch nicht unterstützt.\n\n Ob Tagung, Konferenz oder Festival - auf der Karte von morgen sollen auch bald Events eingetragen werden. Wir planen außerdem einen Veranstaltungskalender, der die Ergebnisse anzeigt und exportiert.\n\n Helfe mit, damit diese Funktion schon bald verfügbar ist und beteilige Dich an der Spendenaktion auf betterplace.org!",
-      "close": "schließen",
-      "donate": "spenden"
+      "close": "Schließen",
+      "donate": "Spenden"
     },
     "embed": {
       "findOutMore": "Mehr über das Teilen und Einbetten von Karten"
