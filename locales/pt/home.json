@@ -5,8 +5,8 @@
       "infos": "Über uns",
       "contact": "Kontakt",
       "donate": "Spenden",
-      "login": "Login",
-      "logout": "Logout"
+      "login": "Iniciar sessão",
+      "logout": "Sair"
     },
     "slogan": "Alles Gute auf einer Karte",
     "city-search": {
@@ -73,10 +73,10 @@
     "footer": {
       "heading": "Wir zeigen Menschen, die Gutes tun wollen, wo es Gutes gibt.",
       "contact": "Kontakt: ",
-      "social-media": "Social Media: ",
-      "open-source": "Open Source: ",
+      "social-media": "Redes Sociais: ",
+      "open-source": "Código Aberto: ",
       "imprint": "Impressum",
-      "privacyStatement": "Privacy"
+      "privacyStatement": "Privacidade"
     }
   },
   "landingExplain": {
